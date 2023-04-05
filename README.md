@@ -10,7 +10,7 @@ I am currently working on a university wide, collaborative project that will all
   <a href="[ethanscheys@gmail.com](https://img.shields.io/badge/ethanscheys@gmail.com-red?style=for-the-badge&logo=Gmail&logoColor=white)">
     <img src="https://img.shields.io/badge/ethanscheys@gmail.com-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="[![https://linkedin.com/in/ethan-scheys](https://linkedin.com/in/ethan-scheys)]">
+  <a href="(https://linkedin.com/in/ethan-scheys)">
     <img src="https://img.shields.io/badge/EthanScheys-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="ethanscheys"/>
   </a>
 </div>
