@@ -5,6 +5,13 @@ Unfortunately, I am not General Kenobi, I am just a Computer Science student at 
 ### Current Project 🖥️
 I am currently working on a university wide, collaborative project that will allow faculty to submit reimbursement tickets through a website, instead of doing it by hand like they have been.
 
+### Contact Me 📥
+<div id="badges1">
+  <a href="Gmail-URL">
+    <img src="https://img.shields.io/badge/ethanscheys@gmail.com-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+</div>
+
 ### Language Experience 📚
 <div id="badges">
   <a href="C++-URL">
