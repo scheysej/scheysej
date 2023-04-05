@@ -1,5 +1,9 @@
-### Hi there 👋
-Hello There! Unfortunately, I am not General Kenobi, I am just a Computer Science student with a passion for coding. I have yet to find an area of Computer Science that I don't enjoy, and I am thrilled to continue learning. 
+### Hello There!
+
+Unfortunately, I am not General Kenobi, I am just a Computer Science student with a passion for coding. I have yet to find an area of my field that I don't enjoy, and I am thrilled to continue learning.
+
+##Language Experience
+https://img.shields.io/badge/C++-blue
 <!--
 **scheysej/scheysej** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
