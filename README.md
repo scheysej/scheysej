@@ -3,18 +3,7 @@
 Unfortunately, I am not General Kenobi, I am just a Computer Science student at the Univeristy of Detroit Mercy with a passion for coding and learning new things.
 
 ### Current Project 🖥️
-I am currently working on a university wide, collaborative project that will allow faculty to submit reimbursement tickets through a website, instead of doing it by hand like they have been. I am working with [Ara Oladipo](https://github.com/Ara-O), [Ben Yacoob](https://github.com/Benyamain), and [Andre Price](https://github.com/pricean2)
-
-### Contact Me 📥
-<div id="badges1">
-  <a href="[ethanscheys@gmail.com](https://img.shields.io/badge/ethanscheys@gmail.com-red?style=for-the-badge&logo=Gmail&logoColor=white)">
-    <img src="https://img.shields.io/badge/ethanscheys@gmail.com-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
-  <a href="https://linkedin.com/in/ethan-scheys">
-    <img src="https://img.shields.io/badge/EthanScheys-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="ethanscheys"/>
-  </a>
-</div>
-
+I am currently working on a university-wide, collaborative project that will allow faculty to submit reimbursement requests through a website instead of doing it by hand like they have been. I am working with [Ara Oladipo](https://github.com/Ara-O), [Ben Yacoob](https://github.com/Benyamain), and [Andre Price](https://github.com/pricean2).
 
 ### Language Experience 📚
 <div id="badges">
@@ -32,6 +21,16 @@ I am currently working on a university wide, collaborative project that will all
   </a>
   <a href="Kotlin-URL">
     <img src="https://img.shields.io/badge/Kotlin-purple?style=for-the-badge&logo=Kotlin&logoColor=white" alt="Kotlin Badge"/>
+  </a>
+</div>
+
+### Contact Me 📥
+<div id="badges1">
+  <a href="[ethanscheys@gmail.com](https://img.shields.io/badge/ethanscheys@gmail.com-red?style=for-the-badge&logo=Gmail&logoColor=white)">
+    <img src="https://img.shields.io/badge/ethanscheys@gmail.com-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  <a href="https://linkedin.com/in/ethan-scheys">
+    <img src="https://img.shields.io/badge/EthanScheys-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="ethanscheys"/>
   </a>
 </div>
 <!--
