@@ -7,19 +7,19 @@ I am currently working on a university-wide, collaborative project that will all
 
 ### Language Experience 📚
 <div id="badges">
-  <a href="C++-URL">
+  <a href="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus&logoColor=white">
     <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++ Badge"/>
   </a>
-  <a href="Java">
+  <a href="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=oracle&logoColor=white">
     <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=oracle&logoColor=white" alt="Java Badge"/>
   </a>
-  <a href="JS-URL">
+  <a href="https://img.shields.io/badge/JS-yellow?style=for-the-badge&logo=JavaScript&logoColor=white">
     <img src="https://img.shields.io/badge/JS-yellow?style=for-the-badge&logo=JavaScript&logoColor=white" alt="JS Badge"/>
   </a>
-  <a href="ahk-URL">
+  <a href="https://img.shields.io/badge/AHK-green?style=for-the-badge&logo=AutoHotkey&logoColor=white">
     <img src="https://img.shields.io/badge/AHK-green?style=for-the-badge&logo=AutoHotkey&logoColor=white" alt="AHK Badge"/>
   </a>
-  <a href="Kotlin-URL">
+  <a href="[Kotlin-URL](https://img.shields.io/badge/Kotlin-purple?style=for-the-badge&logo=Kotlin&logoColor=white)">
     <img src="https://img.shields.io/badge/Kotlin-purple?style=for-the-badge&logo=Kotlin&logoColor=white" alt="Kotlin Badge"/>
   </a>
 </div>
