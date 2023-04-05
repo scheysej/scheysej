@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Hello There! Unfortunately, I am not General Kenobi, I am just a Computer Science student with a passion for coding. I have yet to find an area of Computer Science that I don't enjoy, and I am thrilled to continue learning. 
 <!--
 **scheysej/scheysej** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
