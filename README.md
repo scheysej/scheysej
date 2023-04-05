@@ -7,13 +7,14 @@ I am currently working on a university wide, collaborative project that will all
 
 ### Contact Me 📥
 <div id="badges1">
-  <a href="Gmail-URL">
+  <a href="ethanscheys@gmail.com">
     <img src="https://img.shields.io/badge/ethanscheys@gmail.com-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="Linkedin-URL">
-    <img src="https://img.shields.io/badge/EthanScheys-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="https://www.linkedin.com/in/ethan-scheys/"/>
+  <a href="https://linkedin.com/in/ethan-scheys">
+    <img src="https://img.shields.io/badge/EthanScheys-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="ethanscheys"/>
   </a>
 </div>
+
 
 ### Language Experience 📚
 <div id="badges">
