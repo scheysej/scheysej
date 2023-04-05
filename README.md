@@ -1,8 +1,11 @@
 ## Hello There!
 
-Unfortunately, I am not General Kenobi, I am just a Computer Science student with a passion for coding. I have yet to find an area of my field that I don't enjoy, and I am thrilled to continue learning.
+Unfortunately, I am not General Kenobi, I am just a Computer Science student at the Univeristy of Detroit Mercy with a passion for coding and learning new things.
 
-### Language Experience
+### Current Project 🖥️
+I am currently working on a university wide, collaborative project that will allow faculty to submit reimbursement tickets through a website, instead of doing it by hand like they have been.
+
+### Language Experience 📚
 <div id="badges">
   <a href="C++-URL">
     <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++ Badge"/>
