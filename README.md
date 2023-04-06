@@ -32,7 +32,7 @@ I am currently working on a university-wide, collaborative project that will all
 
 ### Contact Me 📥
 <div id="badges1">
-  <a href="[ethanscheys@gmail.com](https://img.shields.io/badge/ethanscheys@gmail.com-red?style=for-the-badge&logo=Gmail&logoColor=white)">
+  <a href="[ethanscheys@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSDXXtVDwNHTJCJkVtrwMvbnVnmrCWGNxxfbFsxsfWQCkjsxhkzVJhNmGwVNJHghmpVznZDq)">
     <img src="https://img.shields.io/badge/ethanscheys@gmail.com-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
   <a href="https://linkedin.com/in/ethan-scheys">
