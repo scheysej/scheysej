@@ -40,8 +40,7 @@ I am currently working on a university-wide, collaborative project that will all
   </a>
 </div>
 
-<br/>
-
+### My Stats 🧮
 [![Ethan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=scheysej&show_icons=true&theme=dracula)](https://github.com/scheysej)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scheysej&layout=compact&show_icons=true&theme=radical)](https://github.com/scheysej)
