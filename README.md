@@ -6,7 +6,7 @@
 
 ## Hello There!
 
-Unfortunately, I am not General Kenobi, I am just a Computer Science student at the Univeristy of Detroit Mercy with a passion for coding and learning new things.
+Unfortunately, I am not General Kenobi, I am just a Computer Science student at the Univeristy of Detroit Mercy with a passion for coding and learning new things. I am a proud member of the Duckateers.
 
 ### Current Project 🖥️
 I am currently working on a university-wide, collaborative project that will allow faculty to submit reimbursement requests through a website instead of doing it by hand like they have been. I am working with [Ara Oladipo](https://github.com/Ara-O), [Ben Yacoob](https://github.com/Benyamain), and [Andre Price](https://github.com/pricean2).
