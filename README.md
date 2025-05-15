@@ -1,9 +1,3 @@
-<p align="center">
-
-<img src="https://user-images.githubusercontent.com/122425702/230269480-219da5d0-e26a-4d7d-9055-0c64bc700f37.PNG" alt="my banner">
-
-</p>
-
 ## Hello There!
 
 Unfortunately, I am not General Kenobi, I am just a Computer Science student at the Univeristy of Detroit Mercy with a passion for coding and learning new things. I am a proud member of the Duckateers.
