@@ -3,7 +3,7 @@
 Unfortunately, I am not General Kenobi, I am Software Developer with a passion for coding and learning new things. I am earned my Bachelors of Science in Computer Science and minor in Cyber Security from the University of Detroit Mercy and have started exploring where I want to be in the tech industry.
 
 ### Current Project 🖥️
-I am currently working on a university-wide, collaborative project that will allow faculty to submit reimbursement requests through a website instead of doing it by hand like they have been. I am working with [Ara Oladipo](https://github.com/Ara-O), [Ben Yacoob](https://github.com/Benyamain), and [Andre Price](https://github.com/pricean2).
+I am currently working on a website that interprets ASL into English. The desire for this site is to include Word-Level Deep ASL, Alphabet-Level Deep ASL, Emotion Recognition, and Mouth Morphemes in order to provide the best results.
 
 ### Language Experience 📚
 <div id="badges">
